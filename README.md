@@ -12,6 +12,9 @@ A Matrix-Telegram hybrid puppeting/relaybot bridge.
 
 ### [Wiki](https://github.com/tulir/mautrix-telegram/wiki)
 
+### [Reference Documentation](https://docs.contour.so/kubesail/mautrix-telegram/getting-started)
+
+
 ### [Features & Roadmap](https://github.com/tulir/mautrix-telegram/blob/master/ROADMAP.md)
 
 ## Discussion
